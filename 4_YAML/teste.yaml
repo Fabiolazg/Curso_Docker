@@ -1,0 +1,39 @@
+# instruções para o programa
+nome: "Fabiola"
+idade: 21
+
+# este objeto descreve o nosso projeto
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
+
+versao: 2
+versao_completa: 3.14
+
+
+string_sem_aspas: Digite um texto aqui
+texto: "Este tambem e um texto valido"
+
+nulo: ~
+nulo_2: null
+
+verdadeiro: true
+verdadeiro_2: on
+falso: false
+falso_2: off
+
+lista: [1, 2, 3, 4, 5]
+
+lista_2:
+  - "teste"
+  - 10
+  - outro teste
+  - true
+
+obj: {a: 1, b: 2, c: 3}
+
+objeto_2:
+  a: 1
+  b: 2
+  objeto_interno:
+      x: 2
